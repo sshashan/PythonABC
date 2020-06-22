@@ -1,0 +1,4 @@
+This is an write example
+This line is added in append mode
+sujay
+shashank
